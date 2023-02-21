@@ -13,7 +13,7 @@
       <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="60" height="60"/>
     </a>
     <a href="https://tailwindcss.com/" target="_blank"> 
-      <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" alt="tailwindcss" width="60" height="60"/> 
+      <img src="[https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png)" alt="tailwindcss" width="60" height="60"/> 
     </a>
     <a href="https://laravel-livewire.com/" target="_blank"> 
       <img src="https://laravel-livewire.com/img/underwater_jelly.svg" alt="livewire" width="60" height="60"/> 
