@@ -5,7 +5,7 @@
   <h3 align="center">Connect with me</h3>
   <p align="center">
     <a href="https://www.linkedin.com/in/vincent-vuillemin-a1ba15158/" target="blank">
-      <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="" height="30" width="40" />
+      <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="60" width="60" />
     </a>
   </p>
 
