@@ -17,10 +17,15 @@
 
 # 🤝 Connectez-vous
 
-![Static Badge](https://img.shields.io/badge/mon_site_web-grey?style=for-the-badge&logo=framework&color=%2349CC68&link=https://vinvui.com)
-![Static Badge](https://img.shields.io/badge/mon_cv-grey?style=for-the-badge&logo=readdotcv&color=%23F8991C&link=https://cv.vinvui.com)
-![Static Badge](https://img.shields.io/badge/linkedin-grey?style=for-the-badge&logo=linkedin&color=%230A66C2&link=https://www.linkedin.com/in/vincent-vuillemin-a1ba15158%2F)
-
+<a href="https://vinvui.com">
+  <img src="https://img.shields.io/badge/mon_site_web-grey?style=for-the-badge&logo=framework&color=%2349CC68" />
+</a>
+<a href="https://cv.vinvui.com">
+  <img src="https://img.shields.io/badge/mon_cv-grey?style=for-the-badge&logo=readdotcv&color=%23F8991C" />
+</a>
+<a href="https://www.linkedin.com/in/vincent-vuillemin-a1ba15158">
+  <img src="https://img.shields.io/badge/linkedin-grey?style=for-the-badge&logo=linkedin&color=%230A66C2" />
+</a>
 
 # 🛠️ Mes Langages Préférés 
 
