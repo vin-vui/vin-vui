@@ -5,13 +5,13 @@
 # 😊 À Propos de Moi
 
 <p>
-🚀 Passionné par la recherche de solutions sur mesure, mon objectif en tant que concepteur développeur d'applications sénior est de fournir des réponses parfaitement adaptées aux besoins de mes clients. Chaque projet est une aventure unique où j'applique mon     expertise pour atteindre des solutions exceptionnelles.
+🚀 Motivé par la recherche de **solutions sur mesure**, mon objectif en tant que **concepteur développeur d'applications** sénior est de fournir des réponses parfaitement adaptées aux besoins de mes clients. Chaque projet est **une aventure unique** où j'applique mon expertise pour atteindre des solutions exceptionnelles.
 
-💻 J'affectionne l'utilisation de technologies innovantes tout en m'appuyant sur des fondations robustes et éprouvées. Ma spécialité réside dans des outils tels que Laravel, Vue.js et Tailwind, que j'utilise avec précision pour créer des applications performantes et évolutives. Mon expérience clé chez Renault, où j'ai dirigé un projet innovant répondant à un besoin spécifique, a renforcé ma capacité à innover et à collaborer efficacement avec les équipes métier.
+💻 J'affectionne l'utilisation de **technologies innovantes** tout en m'appuyant sur des fondations robustes et éprouvées. Ma spécialité réside dans des outils tels que **Laravel**, **Vue.js** et **Tailwind**, que j'utilise avec précision pour créer des **applications performantes et évolutives**. Mon expérience clé chez Renault, où j'ai dirigé un projet innovant répondant à un besoin spécifique, a renforcé ma capacité à innover et à **collaborer efficacement** avec les équipes métier.
 
-🔄 Ma philosophie de gestion de projet repose sur une collaboration fluide avec les clients, privilégiant une approche agile. Utilisant des outils tels que le tableau Kanban et le diagramme de Gantt, je maintiens une cohérence totale tout au long du cycle de vie du projet, assurant ainsi la satisfaction client.
+🔄 Ma philosophie de gestion de projet repose sur une **collaboration fluide** avec les clients, privilégiant une **approche agile**. Utilisant des outils tels que le tableau Kanban et le diagramme de Gantt, je maintiens une cohérence totale tout au long du cycle de vie du projet, assurant ainsi la **satisfaction client**.
 
-💬 Ma signature en tant que freelance réside dans ma disponibilité, ma flexibilité et ma conviction fondamentale en la confiance. Je suis passionné par les défis et engagé à trouver les solutions les plus adaptées. Ensemble, transformons vos idées en réalisations exceptionnelles !
+💬 Ma signature en tant que freelance réside dans ma **disponibilité**, ma **flexibilité** et ma conviction fondamentale en la **confiance**. Je suis passionné par les défis et engagé à trouver les solutions les plus adaptées. **Ensemble, transformons vos idées en réalisations exceptionnelles !**
 </p>
 
 
